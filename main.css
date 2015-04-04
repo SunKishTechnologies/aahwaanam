@@ -1,0 +1,137 @@
+BODY {
+	BACKGROUND: url(images/406878.jpg) no-repeat ;  MARGIN: 0px; FONT: 0.7em Arial, Helvetica, Sans-Serif; COLOR: #333; LETTER-SPACING: 1px; TEXT-ALIGN: center;opacity:1.9;
+}
+div.background
+  {
+  background:url(images/backgrnd.jpg) repeat;
+  border:2px solid black;
+  opacity:0.6;
+  filter:alpha(opacity=60);
+  }
+IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+A {
+	COLOR: #aa1234; TEXT-DECORATION: none
+}
+H1 {
+	MARGIN-BOTTOM: 0px; COLOR: #000; LETTER-SPACING: 1px
+}
+H2 {
+	MARGIN-BOTTOM: 0px; COLOR: #000; LETTER-SPACING: 1px
+}
+H3 {
+	MARGIN-BOTTOM: 0px; COLOR: #000; LETTER-SPACING: 1px
+}
+H1 {
+	CLEAR: both; FONT-WEIGHT: normal; FONT-SIZE: 160%; MARGIN: 40px 0px 0px 25px; TEXT-ALIGN: left
+}
+H2 {
+	FONT-SIZE: 140%
+}
+H3 {
+	MARGIN-TOP: 15px; FONT-SIZE: 100%
+}
+BLOCKQUOTE {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 20px; BACKGROUND-IMAGE: url(images/rock.jpg); PADDING-BOTTOM: 20px; PADDING-TOP: 20px; TEXT-ALIGN: justify
+}
+P {
+	PADDING-RIGHT: 25px; PADDING-LEFT: 25px; PADDING-BOTTOM: 10px; MARGIN: 0px; PADDING-TOP: 10px;
+}
+div.inv {
+	MARGIN: 0px; margin-left:20%; PADDING-TOP: 0px; width: 74%; align:center; font-size: 17pt; font-family:Forte; color:#dbccc2;
+}
+div.check {
+	MARGIN: 0px; margin-left:12%; PADDING-TOP: 0px; width: 88%; align:center; font-size: 17pt; font-family:Forte; color:#f933f2;
+}
+div.one {
+	display:inline; MARGIN: 0px; margin-left:20%; PADDING-TOP: 0px; width: 18%; align:center;
+}
+div.back {
+	MARGIN: 0px; margin-left:20%; PADDING-TOP: 0px; width: 20%; align:center; font-size:20.0pt; line-height:180%; font-family:Forte; color:#a9f3f2;
+}
+
+div.three {
+	display:inline; MARGIN: 0px; margin-left:46%; PADDING-TOP: 0px; width: 18%; align:center;
+}
+
+div.bday {
+	MARGIN: 0px; margin-left:46%; margin-top: -22%; PADDING-TOP: 0px; width: 18%; align:center; font-size:17.0pt;line-height:192%;font-family:Forte; color:#a9f3f2; 
+}
+
+div.venue{
+	MARGIN: 0px; margin-left:40%; PADDING-TOP: 0px; width: 28%; align:center; font-size: 17pt; font-family:Forte; color:#f933f2;
+}
+
+div.two {
+	float:right; display:inline; MARGIN: 0px; margin-left:33%; margin-top:-28%; margin-right: 10%; PADDING-TOP: 10px; width: 30%; align:center;
+}
+	
+div.contact {
+	MARGIN: 0px; margin-left: 33%; margin-top: -26%; PADDING-TOP: 10px; width: 50%; align:center; vertical-align: middle; font-size:28.0pt;line-height:115%;font-family:Forte;color:#ffffff; }
+	
+#menu  #footer {
+	MARGIN-TOP: 850px
+}
+#footer {
+	CLEAR: both; MARGIN-TOP: 20px; COLOR: #999; LETTER-SPACING: 2px; TEXT-ALIGN: center
+}
+#footer A {
+	COLOR: #999
+}
+#footer A:hover {
+	COLOR: #333
+}
+ink {
+	FONT-STYLE: normal;
+}
+link A {
+	BORDER-BOTTOM: #aafb68 1px dotted
+}
+link A:hover {
+	BORDER-BOTTOM: #4fb783 1px solid
+}
+
+.date {
+	background:#fff url('images/background.jpg');
+	width:60px;
+	height:57px;
+	color:#FFFFFF;
+	text-align:center;
+	position:relative;
+	left:600px;
+}
+.date .date-month {
+	height:18px;
+	font-size:12px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+}
+.date .date-day {
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:30px;
+}
+
+#web-buttons-idtvoa6 a{display:block;color:transparent;} 
+#web-buttons-idtvoa6 a:hover{background-position:left bottom;}
+a#web-buttons-idtvoa6a {display:none}
+
+img.trans {
+    opacity: 0.8;
+    filter: alpha(opacity=80); /* For IE8 and earlier */
+}
+
+#attendance1 {
+    position: absolute;
+	top: 200px;
+	left:100px;
+}
+
+#attendance2 {
+    position: absolute;
+	right:50px;
+}
+
+#web-buttons-idtvoa6 tr td {
+font-size:18.0pt;line-height:115%;font-family:
+Forte}

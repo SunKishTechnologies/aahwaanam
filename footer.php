@@ -1,0 +1,1 @@
+<DIV id=footer>&copy;Shaarini.me</DIV></DIV></BODY></HTML>
